@@ -1,0 +1,454 @@
+[
+  {
+    "name": "Aerobic",
+    "effect": "When attacking with Wind techniques, gets SPDEF -1 and SPD +1.",
+    "keywords": ["Wind"],
+    "characters": ["Volarend"]
+  },
+  {
+    "name": "Air Specialist",
+    "effect": "+15% damage with Wind techniques.",
+    "keywords": ["Wind"],
+    "characters": ["Saku", "Barnshe", "Zephyruff"]
+  },
+  {
+    "name": "Amphibian",
+    "effect": "When attacked with a Water technique, increases SPD by 1 stage.",
+    "keywords": ["Water"],
+    "characters": ["Fomu", "Saipat", "Crystle", "Platypet", "Bigu"]
+  },
+  {
+    "name": "Anaerobic",
+    "effect": "When attacking with Toxic techniques, gets SPDEF +1 and SPATK -1.",
+    "keywords": ["Toxic"],
+    "characters": ["Volarend"]
+  },
+  {
+    "name": "Apothecary",
+    "effect": "When attacking with a Special technique, the target gets Poisoned for 1 turn if it's a rival or Regenerated for 1 turn if it's an ally.",
+    "keywords": ["Special", "Poisoned", "Regenerated"],
+    "characters": ["Orphyll"]
+  },
+  {
+    "name": "Avenger",
+    "effect": "When an ally is knocked-out, increases SPATK and SPD by 1 stage.",
+    "keywords": [],
+    "characters": ["Tental"]
+  },
+  {
+    "name": "Benefactor",
+    "effect": "When an ally is damaged, restores 10% of max HP.",
+    "keywords": [],
+    "characters": ["Kinu"]
+  },
+  {
+    "name": "Botanist",
+    "effect": "+15% damage with Nature techniques.",
+    "keywords": ["Nature"],
+    "characters": ["Loali", "Hidody", "Saku", "Spriole"]
+  },
+  {
+    "name": "Botanophobia",
+    "effect": "When attacked with a Nature technique, increases damage by 50%.",
+    "keywords": ["Nature"],
+    "characters": ["Ganki", "Kalabyss"]
+  },
+  {
+    "name": "Brawny",
+    "effect": "Physical techniques do 20% more damage.",
+    "keywords": ["Physical"],
+    "characters": ["Skunch", "Baboong"]
+  },
+  {
+    "name": "Bully",
+    "effect": "While allies outnumber rivals, techniques inflict +30% damage.",
+    "keywords": [],
+    "characters": ["Granpah", "Skunch", "Mastione", "Blooze"]
+  },
+  {
+    "name": "Caffeinated",
+    "effect": "Prevents the Asleep Status condition.",
+    "keywords": ["Asleep"],
+    "characters": ["Paharac", "Kaku", "Magmis", "Umishi", "Vulvir", "Bunbun"]
+  },
+  {
+    "name": "Camaraderie",
+    "effect": "When attacked, reduces 50% damage if both allies are part of the same evolutionary line.",
+    "keywords": [],
+    "characters": ["Paharac", "Raiber", "Spriole", "Vulvir", "Bunbun"]
+  },
+  {
+    "name": "Callosity",
+    "effect": "When attacked by a physical technique, increases DEF by 1 stage.",
+    "keywords": ["Physical"],
+    "characters": ["Cerneaf"]
+  },
+  {
+    "name": "Channeler",
+    "effect": "Damage done with Special techniques is increased by 25%.",
+    "keywords": ["Special"],
+    "characters": ["Zenoreth"]
+  },
+  {
+    "name": "Cold-Natured",
+    "effect": "Instead of getting Cold, the Temtem gets Frozen.",
+    "keywords": ["Cold", "Frozen"],
+    "characters": ["Ganki"]
+  },
+  {
+    "name": "Demoralize",
+    "effect": "When entering the battlefield, decreases enemy team SPD by 1 stage.",
+    "keywords": [],
+    "characters": ["Raize"]
+  },
+  {
+    "name": "Determined",
+    "effect": "Prevents negative stat stage changes.",
+    "keywords": [],
+    "characters": ["Platimous", "Valash", "Tuvine"]
+  },
+  {
+    "name": "Electric Synthesize",
+    "effect": "When attacked with an Electric technique, restores HP instead of receiving damage.",
+    "keywords": ["Electric"],
+    "characters": ["Hidody", "Nessla", "Lapinite"]
+  },
+  {
+    "name": "Energy Reserve",
+    "effect": "If HP is below 25% by the end of the turn, gets Vigorized for 2 turns.",
+    "keywords": ["Vigorized"],
+    "characters": ["Piraniant"]
+  },
+  {
+    "name": "Fainted Curse",
+    "effect": "When knocked-out, the attacker loses 50% of max HP.",
+    "keywords": [],
+    "characters": ["Pigepic", "Azuroc"]
+  },
+  {
+    "name": "Fast Charge",
+    "effect": "When a Digital ally enters the battlefield, gets SPD +2.",
+    "keywords": ["Digital"],
+    "characters": ["Gazuma"]
+  },
+  {
+    "name": "Fever Rush",
+    "effect": "When getting a Status condition, increases ATK by 1 stage.",
+    "keywords": [],
+    "characters": ["Smazee"]
+  },
+  {
+    "name": "Flawed Crystal",
+    "effect": "When attacked by a Mental, Toxic, or Electric Technique, increases damage by 50%.",
+    "keywords": ["Mental", "Toxic", "Electric"],
+    "characters": ["Anahir"]
+  },
+  {
+    "name": "Friendship",
+    "effect": "Immune to ally's offensive techniques.",
+    "keywords": [],
+    "characters": ["Paharo", "Pigepic", "Smazee"]
+  },
+  {
+    "name": "Furor",
+    "effect": "When HP is below 33%, techniques do 33% more damage.",
+    "keywords": [],
+    "characters": ["Raize", "Skail"]
+  },
+  {
+    "name": "Guardian",
+    "effect": "Prevents the Cold, Burnt, Poisoned, and Doomed Status condition on the ally.",
+    "keywords": ["Cold", "Burnt", "Poisoned", "Doomed"],
+    "characters": ["Shuine"]
+  },
+  {
+    "name": "Hydrologist",
+    "effect": "+15% damage with Water techniques.",
+    "keywords": ["Water"],
+    "characters": ["Fomu", "Pewki", "Ukama", "Oceara", "Nessla", "Kalazu"]
+  },
+  {
+    "name": "Hover",
+    "effect": "When attacked with an Earth technique, reduces damage by 50%.",
+    "keywords": ["Earth"],
+    "characters": ["Paharo", "Kinu"]
+  },
+  {
+    "name": "Immunity",
+    "effect": "Resists damage from Toxic techniques.",
+    "keywords": ["Toxic"],
+    "characters": ["Shuine"]
+  },
+  {
+    "name": "Individualist",
+    "effect": "Techniques targeting the ally will fail.",
+    "keywords": [],
+    "characters": ["Vulor"]
+  },
+  {
+    "name": "Last Rush",
+    "effect": "Increases ATK, SPATK and SPD by 50% while being the last standing allied Temtem.",
+    "keywords": [],
+    "characters": ["Granpah", "Capyre", "Sparzy"]
+  },
+  {
+    "name": "Loneliness",
+    "effect": "Synergies won't work on both allies.",
+    "keywords": [],
+    "characters": ["Kalabyss"]
+  },
+  {
+    "name": "Mental Alliance",
+    "effect": "Increases SPATK by 15% if an ally is Mental.",
+    "keywords": ["Mental"],
+    "characters": ["Houchic"]
+  },
+  {
+    "name": "Mirroring",
+    "effect": "When attacked with a Special technique, the attacker gets 20% knockback damage.",
+    "keywords": ["Special"],
+    "characters": ["Sherald", "Hocus", "Gyalis", "Azuroc"]
+  },
+  {
+    "name": "Mithridatism",
+    "effect": "Prevents the Poisoned Status condition.",
+    "keywords": ["Poisoned"],
+    "characters": ["Swali", "Kaku", "Deendre", "Oceara", "Kalazu"]
+  },
+  {
+    "name": "Motivator",
+    "effect": "At the start of the turn, allies restore 10% of STA.",
+    "keywords": [],
+    "characters": ["Raican"]
+  },
+  {
+    "name": "Mucous",
+    "effect": "Resists damage from Electric techniques and prevents the Cold and Burnt Status condition.",
+    "keywords": ["Electric", "Cold", "Burnt"],
+    "characters": ["Babawa"]
+  },
+  {
+    "name": "Neutrality",
+    "effect": "Prevents all Status Conditions.",
+    "keywords": [],
+    "characters": ["Barnshe"]
+  },
+  {
+    "name": "Parrier",
+    "effect": "Damage taken from Physical techniques is reduced by 30%.",
+    "keywords": ["Physical"],
+    "characters": ["Mushook"]
+  },
+  {
+    "name": "Patient",
+    "effect": "Restores 10% of max STA when using a Hold technique.",
+    "keywords": [],
+    "characters": ["Wiplump", "Piraniant"]
+  },
+  {
+    "name": "Plethoric",
+    "effect": "Temtem has 30% more SPD when HP is full.",
+    "keywords": [],
+    "characters": ["Wiplump", "Ukama"]
+  },
+  {
+    "name": "Power Nap",
+    "effect": "At the start of the turn, restores 15% of max HP of an Asleep Temtem.",
+    "keywords": ["Asleep"],
+    "characters": []
+  },
+  {
+    "name": "Prideful",
+    "effect": "When attacking, gets ATK +1, SPATK +1, and SPD +1 if the target is knocked-out.",
+    "keywords": [],
+    "characters": ["Raican"]
+  },
+  {
+    "name": "Provident",
+    "effect": "When attacked by a Fire, Earth, or Melee technique, gets SPDEF +1.",
+    "keywords": ["Fire", "Earth", "Melee"],
+    "characters": ["Sherald"]
+  },
+  {
+    "name": "Punching Bag",
+    "effect": "Damage taken from Melee techniques is reduced by 30%.",
+    "keywords": ["Melee"],
+    "characters": ["Goolder"]
+  },
+  {
+    "name": "Puppet Master",
+    "effect": "While HP is below 40%, received rival techniques get redirected to the ally.",
+    "keywords": [],
+    "characters": ["Myx"]
+  },
+  {
+    "name": "Pyromaniac",
+    "effect": "+15% damage with Fire techniques.",
+    "keywords": ["Fire"],
+    "characters": ["Banapi", "Vulor", "Mastione"]
+  },
+  {
+    "name": "Receptive",
+    "effect": "Increases duration of positive Status conditions by 1.",
+    "keywords": [],
+    "characters": ["Mudrid", "Gazuma", "Tuvine", "Vulcrane"]
+  },
+  {
+    "name": "Rejuvenate",
+    "effect": "When attacking with a Physcal technique, restore 15% of max HP.",
+    "keywords": ["Physical"],
+    "characters": ["Myx"]
+  },
+  {
+    "name": "Resilient",
+    "effect": "Cannot be knocked-out due to overexertion.",
+    "keywords": [],
+    "characters": [
+      "Tateru",
+      "Taifu",
+      "Capyre",
+      "Tuwai",
+      "Platox",
+      "Bunbun",
+      "Mushi"
+    ]
+  },
+  {
+    "name": "Resistant",
+    "effect": "When getting a negative status condition, decreases its turns by 1.",
+    "keywords": [],
+    "characters": ["Platox", "Mudrid", "Mushi", "Gyalis"]
+  },
+  {
+    "name": "Rested",
+    "effect": "Increases ATK and SPATK by 30% during the first 2 turns the Temtem is on the battlefield.",
+    "keywords": [],
+    "characters": ["Raiber", "Pewki", "Crystle"]
+  },
+  {
+    "name": "Scavenger",
+    "effect": "Restores 15% of max HP if another Temtem is knocked-out.",
+    "keywords": [],
+    "characters": ["Skail", "Lapinite", "Valash", "Occlura"]
+  },
+  {
+    "name": "Settling",
+    "effect": "Increases ATK by 8% for each turn the Temtem stays on the battlefield.",
+    "keywords": [],
+    "characters": ["Banapi", "Deendre", "Cerneaf"]
+  },
+  {
+    "name": "Shared Pain",
+    "effect": "When receiving a consecutive attack in the same turn, the technique gets redirected to the ally.",
+    "keywords": [],
+    "characters": ["Swali", "Umishi"]
+  },
+  {
+    "name": "Soft Touch",
+    "effect": "When attacking an Asleep Status condition target, it won't wake up.",
+    "keywords": ["Asleep"],
+    "characters": ["Tateru", "Houchic"]
+  },
+  {
+    "name": "Spoilsport",
+    "effect": "+25% damage with multi-target techniques.",
+    "keywords": [],
+    "characters": ["Tuwai"]
+  },
+  {
+    "name": "Strong Liver",
+    "effect": "When attacked with a Toxic technique, restores HP instead of receiving damage.",
+    "keywords": ["Toxic"],
+    "characters": ["Goolder"]
+  },
+  {
+    "name": "Synergy Master",
+    "effect": "Damage done with synergy techniques is increased by 25% while the Temtem participates in the synergy.",
+    "keywords": [],
+    "characters": ["Adoroboros"]
+  },
+  {
+    "name": "Thick Skin",
+    "effect": "When attacked by a Fire technique, reduces damage by 50%.",
+    "keywords": ["Fire"],
+    "characters": ["Magmis"]
+  },
+  {
+    "name": "Tireless",
+    "effect": "Prevents the overexertion turn penalization.",
+    "keywords": [],
+    "characters": ["Mushook"]
+  },
+  {
+    "name": "Toxic Affinity",
+    "effect": "Toxic techniques get a damage boost of the same type.",
+    "keywords": ["Toxic"],
+    "characters": ["Saipat", "Platypet", "Orphyll", "Zephyruff"]
+  },
+  {
+    "name": "Toxic Farewell",
+    "effect": "When knocked-out, the attacker gets the Poisoned Status condition for 3 turns.",
+    "keywords": ["Poisoned"],
+    "characters": ["Loali", "Taifu", "Nidrasil", "Toxolotl"]
+  },
+  {
+    "name": "Toxic Skin",
+    "effect": "When attacked with a Physical technique, the attacker gets Poisoned for 2 turns.",
+    "keywords": ["Physical", "Poisoned"],
+    "characters": ["Noxolotl", "Blooze", "Adoroboros"]
+  },
+  {
+    "name": "Trance",
+    "effect": "When attacked, gets Asleep Condition for 2 turns, SPATK +2 and SPDEF +2 if HP is below 30%.",
+    "keywords": ["Asleep"],
+    "characters": ["Noxolotl"]
+  },
+  {
+    "name": "Trauma",
+    "effect": "Decreases DEF by 1 stage if hit by a physical technique, and decreases SPDEF by 1 stage if hit by a special technique.",
+    "keywords": ["Physical", "Special"],
+    "characters": ["Anahir"]
+  },
+  {
+    "name": "Tri-Apothecary",
+    "effect": "When attacking with a Special technique, the target gets Poisoned for 3 turns if it's a rival or Regenerated for 3 turns if it's an ally.",
+    "keywords": ["Special", "Poisoned", "Regenerated"],
+    "characters": ["Nidrasil"]
+  },
+  {
+    "name": "Vigorous",
+    "effect": "Damage done when overexerting is increased by 50%.",
+    "keywords": [],
+    "characters": ["Vulcrane"]
+  },
+  {
+    "name": "Warm-Blooded",
+    "effect": "Prevents the Cold Status condition.",
+    "keywords": ["Cold"],
+    "characters": ["Bigu", "Occlura", "Baboong"]
+  },
+  {
+    "name": "Water Affinity",
+    "effect": "Water techniques get a damage boost of the same type.",
+    "keywords": ["Water"],
+    "characters": ["Tental"]
+  },
+  {
+    "name": "Withdrawal",
+    "effect": "When resting, restores 15% of max HP and removes the Asleep Status condition.",
+    "keywords": ["Asleep"],
+    "characters": ["Babawa"]
+  },
+  {
+    "name": "Wrecked Farewell",
+    "effect": "When knocked out by overexertion damage, every Temtem loses 25% of max HP.",
+    "keywords": [],
+    "characters": ["Zenoreth"]
+  },
+  {
+    "name": "Zen",
+    "effect": "When getting the Asleep Status condition, gets DEF +1 and SPDEF +1.",
+    "keywords": ["Asleep"],
+    "characters": ["Platimous"]
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Tiny Crystal",
+    "effect": "Can be sold at a good price.",
+    "sell": 20,
+    "type": "General"
+  },
+  {
+    "name": "Average Crystal",
+    "effect": "Can be sold at a good price.",
+    "sell": 60,
+    "type": "General"
+  },
+  {
+    "name": "Scent",
+    "effect": "Reduces untamed encounters for 100 meters.",
+    "buy": 60,
+    "sell": 41,
+    "type": "General"
+  },
+  {
+    "name": "Sea Salt",
+    "effect": "Can be sold at a good price.",
+    "sell": 300,
+    "type": "General"
+  },
+  {
+    "name": "Silicon Fragment",
+    "effect": "Can be sold at a good price.",
+    "sell": 39,
+    "type": "General"
+  },
+  {
+    "name": "Silicon Shard",
+    "effect": "Can be sold at a good price.",
+    "sell": 299,
+    "type": "General"
+  },
+  {
+    "name": "Smoke Bomb",
+    "effect": "Teleports the Player to the last visited Temporium.",
+    "buy": 120,
+    "sell": 83,
+    "type": "General"
+  },
+  {
+    "name": "TemCard",
+    "effect": "Allows to capture and Tame Temtem",
+    "buy": 15,
+    "sell": 10,
+    "type": "Capture"
+  },
+  {
+    "name": "TemCard+",
+    "effect": "Allows to capture and Tame Temtem with an increased catch rate.",
+    "buy": 80,
+    "sell": 55,
+    "type": "Capture"
+  },
+  {
+    "name": "Balm",
+    "effect": "Restores 25 HP.",
+    "buy": 80,
+    "sell": 55,
+    "type": "Medicine"
+  },
+  {
+    "name": "Balm+",
+    "effect": "Restores 70 HP.",
+    "buy": 325,
+    "sell": 227,
+    "type": "Medicine"
+  },
+  {
+    "name": "Vital Apple",
+    "effect": "Restores 25% HP.",
+    "buy": 150,
+    "sell": 104,
+    "type": "Medicine"
+  },
+  {
+    "name": "Vital Durian",
+    "effect": "Restores 50% HP.",
+    "buy": 350,
+    "sell": 244,
+    "type": "Medicine"
+  },
+  {
+    "name": "Ether",
+    "effect": "Restores 20 STA.",
+    "buy": 100,
+    "sell": 69,
+    "type": "Medicine"
+  },
+  {
+    "name": "Ether+",
+    "effect": "Restores 45 STA.",
+    "buy": 300,
+    "sell": 209,
+    "type": "Medicine"
+  },
+  {
+    "name": "Energetic Kiwi",
+    "effect": "Restores 25% STA.",
+    "buy": 150,
+    "sell": 104,
+    "type": "Medicine"
+  },
+  {
+    "name": "Energetic Banana",
+    "effect": "Restores 50% STA.",
+    "buy": 250,
+    "sell": 174,
+    "type": "Medicine"
+  },
+  {
+    "name": "Tonic",
+    "effect": "Restores 15 HP and 12 STA.",
+    "buy": 80,
+    "sell": 55,
+    "type": "Medicine"
+  },
+  {
+    "name": "Tonic+",
+    "effect": "Restores 42 HP and 27 STA.",
+    "buy": 350,
+    "sell": 244,
+    "type": "Medicine"
+  },
+  {
+    "name": "Vigorous Loquat",
+    "effect": "Restores 40% HP and 27% STA.",
+    "buy": 350,
+    "sell": 244,
+    "type": "Medicine"
+  },
+  {
+    "name": "Revive",
+    "effect": "Revives with 50% HP and 50% STA.",
+    "buy": 500,
+    "sell": 349,
+    "type": "Medicine"
+  },
+  {
+    "name": "Power Revive",
+    "effect": "Revives with 25% HP and 100% STA.",
+    "buy": 700,
+    "sell": 489,
+    "type": "Medicine"
+  },
+  {
+    "name": "Antidote",
+    "effect": "Heals the Poisoned Status Condition.",
+    "buy": 120,
+    "sell": 83,
+    "type": "Medicine"
+  },
+  {
+    "name": "Awakener",
+    "effect": "Heals the Asleep Status Condition.",
+    "buy": 120,
+    "sell": 83,
+    "type": "Medicine"
+  },
+  {
+    "name": "Cooler",
+    "effect": "Heals the Burned Status Condition.",
+    "buy": 200,
+    "sell": 139,
+    "type": "Medicine"
+  },
+  {
+    "name": "Heater",
+    "effect": "Heals the Cold and Frozen Status Conditions.",
+    "buy": 200,
+    "sell": 139,
+    "type": "Medicine"
+  },
+  {
+    "name": "Enhancer Pineapple",
+    "effect": "Adds 20 TV to HP.",
+    "buy": 500,
+    "sell": 349,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Enhancer Watermelon",
+    "effect": "Adds 20 TV to STA.",
+    "buy": 500,
+    "sell": 349,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Enhancer Cherry",
+    "effect": "Adds 20 TV to SPD.",
+    "buy": 500,
+    "sell": 349,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Enhancer Peach",
+    "effect": "Adds 20 TV to ATK.",
+    "buy": 500,
+    "sell": 349,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Enhancer Coconut",
+    "effect": "Adds 20 TV to DEF.",
+    "buy": 500,
+    "sell": 349,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Enhancer Mango",
+    "effect": "Adds 20 TV to SPATK.",
+    "buy": 500,
+    "sell": 349,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Enhancer Papaya",
+    "effect": "Adds 20 TV to SPDEF.",
+    "buy": 500,
+    "sell": 349,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Enhancer Avocado",
+    "effect": "Adds 50 TV to a random Stat below 500 TV.",
+    "buy": 400,
+    "sell": 279,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Weakener Lemon",
+    "effect": "Substracts 20 TV from HP.",
+    "buy": 750,
+    "sell": 524,
+    "type": "Weakener"
+  },
+  {
+    "name": "Weakener Grapefruit",
+    "effect": "Substracts 20 TV from STA.",
+    "buy": 750,
+    "sell": 524,
+    "type": "Weakener"
+  },
+  {
+    "name": "Weakener Kumquat",
+    "effect": "Substracts 20 TV from SPD.",
+    "buy": 750,
+    "sell": 524,
+    "type": "Weakener"
+  },
+  {
+    "name": "Weakener Orange",
+    "effect": "Substracts 20 TV from ATK.",
+    "buy": 750,
+    "sell": 524,
+    "type": "Weakener"
+  },
+  {
+    "name": "Weakener Lime",
+    "effect": "Substracts 20 TV from DEF.",
+    "buy": 750,
+    "sell": 524,
+    "type": "Weakener"
+  },
+  {
+    "name": "Weakener Pomelo",
+    "effect": "Substracts 20 TV from SPATK.",
+    "buy": 750,
+    "sell": 524,
+    "type": "Weakener"
+  },
+  {
+    "name": "Weakener Tangerine",
+    "effect": "Substracts 20 TV from SPDEF.",
+    "buy": 750,
+    "sell": 524,
+    "type": "Weakener"
+  },
+  {
+    "name": "Weakener Yuzu",
+    "effect": "Substracts 50 TV from a random Stat over 0 TV.",
+    "buy": 600,
+    "sell": 419,
+    "type": "Weakener"
+  },
+  {
+    "name": "Growth Enhancer",
+    "effect": "Genetic activators that speed up growth of muscle tissue, increase a Temtem's level by 1.",
+    "sell": 1540,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Fertility Enhancer",
+    "effect": "A cocktail of cutting-edge drugs that increase a Temtem's fertility by 1.",
+    "sell": 3150,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Full Restore",
+    "effect": "The ultimate replenisher. Restores full HP, STA, and heals all Status Conditions.",
+    "sell": 332,
+    "type": "Medicine"
+  },
+  {
+    "name": "Telomere Hack - HP",
+    "effect": "This experimental genefix alters chromosomes in Temtem DNA, adding 1 SV to HP",
+    "sell": 4900,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Telomere Hack - STA",
+    "effect": "This experimental genefix alters chromosomes in Temtem DNA, adding 1 SV to STA",
+    "sell": 4900,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Telomere Hack - SPD",
+    "effect": "This experimental genefix alters chromosomes in Temtem DNA, adding 1 SV to SPD",
+    "sell": 4900,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Telomere Hack - ATK",
+    "effect": "This experimental genefix alters chromosomes in Temtem DNA, adding 1 SV to ATK",
+    "sell": 4900,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Telomere Hack - DEF",
+    "effect": "This experimental genefix alters chromosomes in Temtem DNA, adding 1 SV to DEF",
+    "sell": 4900,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Telomere Hack - SPATK",
+    "effect": "This experimental genefix alters chromosomes in Temtem DNA, adding 1 SV to SPATK",
+    "sell": 4900,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Telomere Hack - SPDEF",
+    "effect": "This experimental genefix alters chromosomes in Temtem DNA, adding 1 SV to SPDEF",
+    "sell": 4900,
+    "type": "Enhancer"
+  },
+  {
+    "name": "Archipelago Map",
+    "effect": "Allows the Player to explore the Archipelago.",
+    "type": "Key"
+  },
+  {
+    "name": "Surfboard",
+    "effect": "Allows the Player to surf and traverse water bodies.",
+    "type": "Key"
+  },
+  {
+    "name": "Acid-proof Surfboard",
+    "effect": "Allows the Player to surf and traverse bodies of water and acid.",
+    "type": "Key"
+  },
+  {
+    "name": "Crystal Skates",
+    "effect": "Allows the Player to skate through crystal surfaces to avoid sliding.",
+    "type": "Key"
+  },
+  {
+    "name": "Tempedia",
+    "effect": "Stores the data of seen and caught Temtem.",
+    "type": "Key"
+  },
+  {
+    "name": "Temessence Phial",
+    "effect": "Full restores your whole squad.",
+    "type": "Key"
+  },
+  {
+    "name": "Rock-hopping Hook",
+    "effect": "Used to leap over certain empty spaces.",
+    "type": "Key"
+  },
+  {
+    "name": "Egg Timer",
+    "effect": "Used to tell when your eggs will hatch.",
+    "type": "Key"
+  }
+]

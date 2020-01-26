@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Coward's Cloak",
+    "effect": "Allows the holding Temtem to gain experience and TV from Combat without taking part.",
+    "location": "Sillaro River"
+  },
+  {
+    "name": "Decoy",
+    "effect": "Increases the chance of running away from Combat.",
+    "location": "Missing Kids Side Quest"
+  },
+  {
+    "name": "Fire Chip",
+    "effect": "Damage dealt from Fire techniques is increased by 10%.",
+    "location": "Anak Volcano"
+  },
+  {
+    "name": "Four-leaf Clover",
+    "effect": "Increases the catch-rate when capturing untamed Temtem.",
+    "location": "Aguamarina Caves"
+  },
+  {
+    "name": "Hand Fan",
+    "effect": "Damage dealt from Wind techniques is increased by 10%.",
+    "location": "Reward from Travel Writer"
+  },
+  {
+    "name": "Lightning Rod",
+    "effect": "Damage taken from Electric techniques is reduced by 20%.",
+    "location": "Blueprint Delivery Side Quest"
+  },
+  {
+    "name": "Lure",
+    "effect": "Untamed Temtem are forced to target the bearer.",
+    "location": "Reward from Travel Writer"
+  },
+  {
+    "name": "Pillow",
+    "effect": "Restores 10% max HP of an Asleep Temtem at turn start.",
+    "location": "Paparazzo Side Quest"
+  },
+  {
+    "name": "Proteins",
+    "effect": "Doubles the TV gain from defeating untamed Temtem.",
+    "location": "Giant Banyan"
+  },
+  {
+    "name": "Pansunscreen",
+    "effect": "Prevents the Burnt Status condition.",
+    "location": "Nanga Dojo."
+  },
+  {
+    "name": "Talisman",
+    "effect": "Prevents the Doomed Status condition.",
+    "location": "Rooftop of Windward Fort"
+  },
+  {
+    "name": "Umbrella",
+    "effect": "Damage taken from Water techniques is reduced by 20%.",
+    "location": "Reward from Tourist Guide in Arissola"
+  },
+  {
+    "name": "Ice Cube",
+    "effect": "Damage taken from Fire techniques is reduced by 20%.",
+    "location": "Left side of the first platform segment of the Mokupuni Dojo"
+  },
+  {
+    "name": "Energy Drink",
+    "effect": "Prevents the Asleep status condition.",
+    "location": "Reward from Find Kemal in Quetzal"
+  },
+  {
+    "name": "Rock Shield",
+    "effect": "Damage taken from Crystal techniques is reduced by 20%.",
+    "location": "Reward from Find Kemal in Quetzal"
+  },
+  {
+    "name": "Squeezer",
+    "effect": "HP recovered from medicine items used in battle is increased by 70%.",
+    "location": "Reward from Find Kemal in Quetzal"
+  },
+  {
+    "name": "Sweatband",
+    "effect": "Restores 15% of max STA at the start of each turn.",
+    "location": "Reward from Cultist Hunt in Quetzal"
+  },
+  {
+    "name": "Tucma Mask",
+    "effect": "Damage taken from Toxic techniques is reduced by 20%.",
+    "location": "Reward from Shipwrecked in Tucma!"
+  },
+  {
+    "name": "Snare",
+    "effect": "When attacked, disables the attacker's gear.",
+    "location": "Reward from Blueprint Delivery"
+  },
+  {
+    "name": "Chamomile",
+    "effect": "When entering the battlefield, removes stage changes.",
+    "location": "Found at Wreck of the Narwhal"
+  },
+  {
+    "name": "Grease",
+    "effect": "Prevents the Trapped status condition.",
+    "location": "Found at Wreck of the Narwhal"
+  },
+  {
+    "name": "Shuine's Horn",
+    "effect": "Changes the Temtem's Toxic-type techniques to Water.",
+    "location": "Reward from Beached Narwhal"
+  },
+  {
+    "name": "Vitality DNA Strand",
+    "effect": "This single-use DNA strand ensures the egg inherits the parent's HP.",
+    "location": "Breeding Center Shopkeeper"
+  },
+  {
+    "name": "Lithe DNA Strand",
+    "effect": "This single-use DNA strand ensures the egg inherits the parent's SPEED.",
+    "location": "Breeding Center Shopkeeper"
+  },
+  {
+    "name": "Aggressive DNA Strand",
+    "effect": "This single-use DNA strand ensures the egg inherits the parent's ATK.",
+    "location": "Breeding Center Shopkeeper"
+  },
+  {
+    "name": "Gifted DNA Strand",
+    "effect": "This single-use DNA strand ensures the egg inherits the parent's SPATK.",
+    "location": "Breeding Center Shopkeeper"
+  },
+  {
+    "name": "Endurance DNA Strand",
+    "effect": "This single-use DNA strand ensures the egg inherits the parent's STA.",
+    "location": "Breeding Center Shopkeeper"
+  },
+  {
+    "name": "Hardening DNA Strand",
+    "effect": "This single-use DNA strand ensures the egg inherits the parent's DEF.",
+    "location": "Breeding Center Shopkeeper"
+  },
+  {
+    "name": "Dominant DNA Strand",
+    "effect": "This single-use DNA strand ensures the egg inherits the parent's SPDEF.",
+    "location": "Breeding Center Shopkeeper"
+  },
+  {
+    "name": "Vigor DNA Strand",
+    "effect": "This single-use DNA strand ensures the egg inherits the parent's HP and STA.",
+    "location": "FreeTen! Organization Weekly"
+  },
+  {
+    "name": "Mighty DNA Strand",
+    "effect": "This single-use DNA strand ensures the egg inherits the parent's ATK and SPATK.",
+    "location": "FreeTen! Organization Weekly"
+  },
+  {
+    "name": "Immunity DNA Strand",
+    "effect": "This single-use DNA strand ensures the egg inherits the parent's DEF and SPDEF.",
+    "location": "FreeTen! Organization Weekly"
+  },
+  {
+    "name": "Engineered DNA Strand",
+    "effect": "This single-use DNA strand ensures the egg inherits the parent's Trait slot.",
+    "location": "FreeTen! Organization Weekly"
+  }
+]

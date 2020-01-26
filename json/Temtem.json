@@ -1,0 +1,2265 @@
+[
+  {
+    "name": "Oree",
+    "id": "002",
+    "new": false,
+    "popular": false,
+    "luma": false,
+    "type": ["Digital"],
+    "stats": {
+      "HP": "-",
+      "STA": "-",
+      "SPD": "-",
+      "ATK": "-",
+      "DEF": "-",
+      "SPKATK": "-",
+      "SPDEF": "-"
+    },
+    "evo": ["Oree", "Zaobian"],
+    "evolution": [
+      {
+        "name": "Oree"
+      },
+      {
+        "name": "Zaobian",
+        "source": "-"
+      }
+    ]
+  },
+  {
+    "name": "Zaobian",
+    "id": "003",
+    "new": false,
+    "popular": false,
+    "luma": false,
+    "tier": "?",
+    "type": ["Digital"],
+    "stats": {
+      "HP": "-",
+      "STA": "-",
+      "SPD": "-",
+      "ATK": "-",
+      "DEF": "-",
+      "SPKATK": "-",
+      "SPDEF": "-"
+    },
+    "evo": ["Oree", "Zaobian"],
+    "evolution": [
+      {
+        "name": "Oree"
+      },
+      {
+        "name": "Zaobian",
+        "source": "-"
+      }
+    ]
+  },
+  {
+    "name": "Platypet",
+    "id": "007",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Water", "Toxic"],
+    "stats": {
+      "HP": 55,
+      "STA": 39,
+      "SPD": 65,
+      "ATK": 45,
+      "DEF": 31,
+      "SPKATK": 67,
+      "SPDEF": 56
+    },
+    "evo": ["Platypet", "Platox", "Platimous"],
+    "evolution": [
+      {
+        "name": "Platypet"
+      },
+      {
+        "name": "Platox",
+        "source": "+20 Levels"
+      },
+      {
+        "name": "Platimous",
+        "source": "+20 Levels"
+      }
+    ],
+    "trait": ["Toxic Affinity", "Amphibian"]
+  },
+  {
+    "name": "Platox",
+    "id": "008",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Water", "Toxic"],
+    "stats": {
+      "HP": 62,
+      "STA": 44,
+      "SPD": 74,
+      "ATK": 50,
+      "DEF": 35,
+      "SPKATK": 76,
+      "SPDEF": 63
+    },
+    "evo": ["Platypet", "Platox", "Platimous"],
+    "evolution": [
+      {
+        "name": "Platypet"
+      },
+      {
+        "name": "Platox",
+        "source": "+20 Levels"
+      },
+      {
+        "name": "Platimous",
+        "source": "+20 Levels"
+      }
+    ],
+    "trait": ["Resistant", "Resilient"]
+  },
+  {
+    "name": "Platimous",
+    "id": "009",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "B",
+    "type": ["Water", "Toxic"],
+    "stats": {
+      "HP": 71,
+      "STA": 49,
+      "SPD": 82,
+      "ATK": 56,
+      "DEF": 39,
+      "SPKATK": 90,
+      "SPDEF": 70
+    },
+    "evo": ["Platypet", "Platox", "Platimous"],
+    "evolution": [
+      {
+        "name": "Platypet"
+      },
+      {
+        "name": "Platox",
+        "source": "+20 Levels"
+      },
+      {
+        "name": "Platimous",
+        "source": "+20 Levels"
+      }
+    ],
+    "trait": ["Zen", "Determined"]
+  },
+  {
+    "name": "Swali",
+    "id": "010",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Nature"],
+    "stats": {
+      "HP": 44,
+      "STA": 65,
+      "SPD": 35,
+      "ATK": 50,
+      "DEF": 40,
+      "SPKATK": 55,
+      "SPDEF": 60
+    },
+    "evo": ["Swali", "Loali"],
+    "evolution": [
+      {
+        "name": "Swali"
+      },
+      {
+        "name": "Loali",
+        "source": "+8 Levels"
+      }
+    ],
+    "trait": ["Shared Pain", "Mithridatism"]
+  },
+  {
+    "name": "Loali",
+    "id": "011",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Nature", "Wind"],
+    "stats": {
+      "HP": 55,
+      "STA": 80,
+      "SPD": 80,
+      "ATK": 60,
+      "DEF": 50,
+      "SPKATK": 70,
+      "SPDEF": 90
+    },
+    "evo": ["Swali", "Loali"],
+    "evolution": [
+      {
+        "name": "Swali"
+      },
+      {
+        "name": "Loali",
+        "source": "+8 Levels"
+      }
+    ],
+    "trait": ["Botanist", "Toxic Farewell"]
+  },
+  {
+    "name": "Tateru",
+    "id": "012",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "D",
+    "type": ["Neutral"],
+    "stats": {
+      "HP": 70,
+      "STA": 90,
+      "SPD": 60,
+      "ATK": 68,
+      "DEF": 66,
+      "SPKATK": 54,
+      "SPDEF": 66
+    },
+    "evo": ["Tateru"],
+    "trait": ["Soft Touch", "Resilient"]
+  },
+  {
+    "name": "Paharo",
+    "id": "016",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Wind"],
+    "stats": {
+      "HP": 48,
+      "STA": 18,
+      "SPD": 60,
+      "ATK": 40,
+      "DEF": 40,
+      "SPKATK": 50,
+      "SPDEF": 50
+    },
+    "evo": ["Paharo", "Paharac", "Granpah"],
+    "evolution": [
+      {
+        "name": "Paharo"
+      },
+      {
+        "name": "Paharac",
+        "source": "+7 Levels"
+      },
+      {
+        "name": "Granpah",
+        "source": "+16 Levels"
+      }
+    ],
+    "trait": ["Hover", "Friendship"]
+  },
+  {
+    "name": "Paharac",
+    "id": "017",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Wind"],
+    "stats": {
+      "HP": 60,
+      "STA": 30,
+      "SPD": 70,
+      "ATK": 50,
+      "DEF": 55,
+      "SPKATK": 60,
+      "SPDEF": 60
+    },
+    "evo": ["Paharo", "Paharac", "Granpah"],
+    "evolution": [
+      {
+        "name": "Paharo"
+      },
+      {
+        "name": "Paharac",
+        "source": "+7 Levels"
+      },
+      {
+        "name": "Granpah",
+        "source": "+16 Levels"
+      }
+    ],
+    "trait": ["Caffeinated", "Camaraderie"]
+  },
+  {
+    "name": "Granpah",
+    "id": "018",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Wind"],
+    "stats": {
+      "HP": 69,
+      "STA": 36,
+      "SPD": 78,
+      "ATK": 55,
+      "DEF": 61,
+      "SPKATK": 72,
+      "SPDEF": 66
+    },
+    "evo": ["Paharo", "Paharac", "Granpah"],
+    "evolution": [
+      {
+        "name": "Paharo"
+      },
+      {
+        "name": "Paharac",
+        "source": "+7 Levels"
+      },
+      {
+        "name": "Granpah",
+        "source": "+16 Levels"
+      }
+    ],
+    "trait": ["Last Rush", "Bully"]
+  },
+  {
+    "name": "Bunbun",
+    "id": "021",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Earth", "Crystal"],
+    "stats": {
+      "HP": 72,
+      "STA": 40,
+      "SPD": 69,
+      "ATK": 50,
+      "DEF": 36,
+      "SPKATK": 64,
+      "SPDEF": 43
+    },
+    "evo": ["Bunbun", "Mudrid"],
+    "evolution": [
+      {
+        "name": "Bunbun"
+      },
+      {
+        "name": "Mudrid",
+        "source": "+20 Levels"
+      }
+    ],
+    "trait": ["Caffeinated", "Resilient"]
+  },
+  {
+    "name": "Mudrid",
+    "id": "022",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "B",
+    "type": ["Earth", "Crystal"],
+    "stats": {
+      "HP": 85,
+      "STA": 44,
+      "SPD": 95,
+      "ATK": 60,
+      "DEF": 42,
+      "SPKATK": 75,
+      "SPDEF": 50
+    },
+    "evo": ["Bunbun", "Mudrid"],
+    "evolution": [
+      {
+        "name": "Bunbun"
+      },
+      {
+        "name": "Mudrid",
+        "source": "+20 Levels"
+      }
+    ],
+    "trait": ["Receptive", "Resistant"]
+  },
+  {
+    "name": "Hidody",
+    "id": "023",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Nature"],
+    "stats": {
+      "HP": 49,
+      "STA": 70,
+      "SPD": 39,
+      "ATK": 42,
+      "DEF": 39,
+      "SPKATK": 62,
+      "SPDEF": 55
+    },
+    "evo": ["Hidody", "Taifu"],
+    "evolution": [
+      {
+        "name": "Hidody"
+      },
+      {
+        "name": "Taifu",
+        "source": "+15 Levels"
+      }
+    ],
+    "trait": ["Electric Synthesize", "Botanist"]
+  },
+  {
+    "name": "Taifu",
+    "id": "024",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "D",
+    "type": ["Nature"],
+    "stats": {
+      "HP": 60,
+      "STA": 87,
+      "SPD": 45,
+      "ATK": 50,
+      "DEF": 45,
+      "SPKATK": 78,
+      "SPDEF": 78
+    },
+    "evo": ["Hidody", "Taifu"],
+    "evolution": [
+      {
+        "name": "Hidody"
+      },
+      {
+        "name": "Taifu",
+        "source": "+15 Levels"
+      }
+    ],
+    "trait": ["Toxic Farewell", "Resilient"]
+  },
+  {
+    "name": "Fomu",
+    "id": "025",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Water"],
+    "stats": {
+      "HP": 40,
+      "STA": 60,
+      "SPD": 40,
+      "ATK": 30,
+      "DEF": 35,
+      "SPKATK": 65,
+      "SPDEF": 70
+    },
+    "evo": ["Fomu", "Wiplump"],
+    "evolution": [
+      {
+        "name": "Fomu"
+      },
+      {
+        "name": "Wiplump",
+        "source": "+20 Levels"
+      }
+    ],
+    "trait": ["Amphibian", "Hydrologist"]
+  },
+  {
+    "name": "Wiplump",
+    "id": "026",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Water", "Wind"],
+    "stats": {
+      "HP": 66,
+      "STA": 80,
+      "SPD": 70,
+      "ATK": 40,
+      "DEF": 50,
+      "SPKATK": 95,
+      "SPDEF": 80
+    },
+    "evo": ["Fomu", "Wiplump"],
+    "evolution": [
+      {
+        "name": "Fomu"
+      },
+      {
+        "name": "Wiplump",
+        "source": "+20 Levels"
+      }
+    ],
+    "trait": ["Plethoric", "Patient"]
+  },
+  {
+    "name": "Skail",
+    "id": "027",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Neutral"],
+    "stats": {
+      "HP": 57,
+      "STA": 43,
+      "SPD": 60,
+      "ATK": 45,
+      "DEF": 50,
+      "SPKATK": 32,
+      "SPDEF": 41
+    },
+    "evo": ["Skail", "Skunch"],
+    "evolution": [
+      {
+        "name": "Skail"
+      },
+      {
+        "name": "Skunch",
+        "source": "+17 Levels"
+      }
+    ],
+    "trait": ["Furor", "Scavenger"]
+  },
+  {
+    "name": "Skunch",
+    "id": "028",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "B",
+    "type": ["Neutral", "Melee"],
+    "stats": {
+      "HP": 72,
+      "STA": 62,
+      "SPD": 75,
+      "ATK": 70,
+      "DEF": 70,
+      "SPKATK": 45,
+      "SPDEF": 60
+    },
+    "evo": ["Skail", "Skunch"],
+    "evolution": [
+      {
+        "name": "Skail"
+      },
+      {
+        "name": "Skunch",
+        "source": "+17 Levels"
+      }
+    ],
+    "trait": ["Brawny", "Bully"]
+  },
+  {
+    "name": "Houchic",
+    "id": "032",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Mental"],
+    "stats": {
+      "HP": 38,
+      "STA": 44,
+      "SPD": 66,
+      "ATK": 40,
+      "DEF": 41,
+      "SPKATK": 72,
+      "SPDEF": 52
+    },
+    "evo": ["Houchic", "Tental"],
+    "evolution": [
+      {
+        "name": "Houchic"
+      },
+      {
+        "name": "Tental",
+        "source": "+29 Levels"
+      }
+    ],
+    "trait": ["Mental Alliance", "Soft Touch"]
+  },
+  {
+    "name": "Tental",
+    "id": "033",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Mental"],
+    "stats": {
+      "HP": 41,
+      "STA": 51,
+      "SPD": 76,
+      "ATK": 42,
+      "DEF": 50,
+      "SPKATK": 81,
+      "SPDEF": 62
+    },
+    "evo": ["Houchic", "Tental"],
+    "evolution": [
+      {
+        "name": "Houchic"
+      },
+      {
+        "name": "Tental",
+        "source": "+29 Levels"
+      }
+    ],
+    "trait": ["Water Affinity", "Avenger"]
+  },
+  {
+    "name": "Orphyll",
+    "id": "035",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Nature", "Toxic"],
+    "stats": {
+      "HP": 42,
+      "STA": 48,
+      "SPD": 75,
+      "ATK": 68,
+      "DEF": 64,
+      "SPKATK": 27,
+      "SPDEF": 40
+    },
+    "evo": ["Orphyll", "Nidrasil"],
+    "evolution": [
+      {
+        "name": "Orphyll"
+      },
+      {
+        "name": "Nidrasil",
+        "source": "+22 Levels"
+      }
+    ],
+    "trait": ["Toxic Affinity", "Apothecary"]
+  },
+  {
+    "name": "Nidrasil",
+    "id": "036",
+    "new": true,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Nature", "Toxic"],
+    "stats": {
+      "HP": 77,
+      "STA": 52,
+      "SPD": 61,
+      "ATK": 88,
+      "DEF": 80,
+      "SPKATK": 36,
+      "SPDEF": 51
+    },
+    "evo": ["Orphyll", "Nidrasil"],
+    "evolution": [
+      {
+        "name": "Orphyll"
+      },
+      {
+        "name": "Nidrasil",
+        "source": "+29 Levels"
+      }
+    ],
+    "trait": ["Toxic Farewell", "Tri-Apothecary"]
+  },
+  {
+    "name": "Banapi",
+    "id": "037",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Fire"],
+    "stats": {
+      "HP": 42,
+      "STA": 40,
+      "SPD": 70,
+      "ATK": 50,
+      "DEF": 50,
+      "SPKATK": 40,
+      "SPDEF": 41
+    },
+    "evo": ["Banapi", "Capyre"],
+    "evolution": [
+      {
+        "name": "Banapi"
+      },
+      {
+        "name": "Capyre",
+        "source": "+17 Levels"
+      }
+    ],
+    "trait": ["Pyromaniac", "Settling"]
+  },
+  {
+    "name": "Capyre",
+    "id": "038",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "B",
+    "type": ["Fire"],
+    "stats": {
+      "HP": 55,
+      "STA": 55,
+      "SPD": 88,
+      "ATK": 71,
+      "DEF": 68,
+      "SPKATK": 45,
+      "SPDEF": 47
+    },
+    "evo": ["Banapi", "Capyre"],
+    "evolution": [
+      {
+        "name": "Banapi"
+      },
+      {
+        "name": "Capyre",
+        "source": "+17 Levels"
+      }
+    ],
+    "trait": ["Last Rush", "Resilient"]
+  },
+  {
+    "name": "Lapinite",
+    "id": "039",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Crystal"],
+    "stats": {
+      "HP": 58,
+      "STA": 31,
+      "SPD": 46,
+      "ATK": 44,
+      "DEF": 63,
+      "SPKATK": 55,
+      "SPDEF": 56
+    },
+    "evo": ["Lapinite", "Azuroc", "Zenoreth"],
+    "evolution": [
+      {
+        "name": "Lapinite"
+      },
+      {
+        "name": "Azuroc",
+        "source": "+25 Levels"
+      },
+      {
+        "name": "Zenoreth",
+        "source": "Trading"
+      }
+    ],
+    "trait": ["Scavenger", "Electric Synthesize"]
+  },
+  {
+    "name": "Azuroc",
+    "id": "040",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Crystal"],
+    "stats": {
+      "HP": 64,
+      "STA": 34,
+      "SPD": 50,
+      "ATK": 58,
+      "DEF": 69,
+      "SPKATK": 60,
+      "SPDEF": 62
+    },
+    "evo": ["Lapinite", "Azuroc", "Zenoreth"],
+    "evolution": [
+      {
+        "name": "Lapinite"
+      },
+      {
+        "name": "Azuroc",
+        "source": "+25 Levels"
+      },
+      {
+        "name": "Zenoreth",
+        "source": "Trading"
+      }
+    ],
+    "trait": ["Mirroring", "Fainted Curse"]
+  },
+  {
+    "name": "Zenoreth",
+    "id": "041",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Crystal"],
+    "stats": {
+      "HP": 71,
+      "STA": 35,
+      "SPD": 56,
+      "ATK": 67,
+      "DEF": 87,
+      "SPKATK": 65,
+      "SPDEF": 69
+    },
+    "evo": ["Lapinite", "Azuroc", "Zenoreth"],
+    "evolution": [
+      {
+        "name": "Lapinite"
+      },
+      {
+        "name": "Azuroc",
+        "source": "+25 Levels"
+      },
+      {
+        "name": "Zenoreth",
+        "source": "Trading"
+      }
+    ],
+    "trait": ["Channeler", "Wrecked Farewell"]
+  },
+  {
+    "name": "Bigu",
+    "id": "044",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Nature"],
+    "stats": {
+      "HP": 55,
+      "STA": 68,
+      "SPD": 20,
+      "ATK": 65,
+      "DEF": 38,
+      "SPKATK": 41,
+      "SPDEF": 42
+    },
+    "evo": ["Bigu", "Babawa"],
+    "evolution": [
+      {
+        "name": "Bigu"
+      },
+      {
+        "name": "Babawa",
+        "source": "+18 Levels"
+      }
+    ],
+    "trait": ["Warm-Blooded", "Amphibian"]
+  },
+  {
+    "name": "Babawa",
+    "id": "045",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "D",
+    "type": ["Nature", "Water"],
+    "stats": {
+      "HP": 85,
+      "STA": 92,
+      "SPD": 40,
+      "ATK": 79,
+      "DEF": 57,
+      "SPKATK": 51,
+      "SPDEF": 44
+    },
+    "evo": ["Bigu", "Babawa"],
+    "evolution": [
+      {
+        "name": "Bigu"
+      },
+      {
+        "name": "Babawa",
+        "source": "+18 Levels"
+      }
+    ],
+    "trait": ["Mucous", "Withdrawal"]
+  },
+  {
+    "name": "Kaku",
+    "id": "048",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Nature"],
+    "stats": {
+      "HP": 69,
+      "STA": 48,
+      "SPD": 35,
+      "ATK": 35,
+      "DEF": 60,
+      "SPKATK": 60,
+      "SPDEF": 50
+    },
+    "evo": ["Kaku", "Saku"],
+    "evolution": [
+      {
+        "name": "Kaku"
+      },
+      {
+        "name": "Saku",
+        "source": "+11 Levels"
+      }
+    ],
+    "trait": ["Caffeinated", "Mithridatism"]
+  },
+  {
+    "name": "Saku",
+    "id": "049",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "S",
+    "type": ["Nature", "Wind"],
+    "stats": {
+      "HP": 82,
+      "STA": 60,
+      "SPD": 40,
+      "ATK": 40,
+      "DEF": 62,
+      "SPKATK": 66,
+      "SPDEF": 70
+    },
+    "evo": ["Kaku", "Saku"],
+    "evolution": [
+      {
+        "name": "Kaku"
+      },
+      {
+        "name": "Saku",
+        "source": "+11 Levels"
+      }
+    ],
+    "trait": ["Air Specialist", "Botanist"]
+  },
+  {
+    "name": "Valash",
+    "id": "050",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "A",
+    "type": ["Neutral", "Crystal"],
+    "stats": {
+      "HP": 58,
+      "STA": 57,
+      "SPD": 90,
+      "ATK": 74,
+      "DEF": 56,
+      "SPKATK": 74,
+      "SPDEF": 56
+    },
+    "evo": ["Valash"],
+    "trait": ["Scavenger", "Determined"]
+  },
+  {
+    "name": "Barnshe",
+    "id": "053",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "A",
+    "type": ["Mental", "Wind"],
+    "stats": {
+      "HP": 50,
+      "STA": 51,
+      "SPD": 65,
+      "ATK": 60,
+      "DEF": 40,
+      "SPKATK": 75,
+      "SPDEF": 79
+    },
+    "evo": ["Barnshe"],
+    "trait": ["Neutrality", "Air Specialist"]
+  },
+  {
+    "name": "Gyalis",
+    "id": "054",
+    "new": false,
+    "popular": true,
+    "luma": true,
+    "tier": "S",
+    "type": ["Crystal", "Melee"],
+    "stats": {
+      "HP": 86,
+      "STA": 44,
+      "SPD": 100,
+      "ATK": 85,
+      "DEF": 61,
+      "SPKATK": 23,
+      "SPDEF": 61
+    },
+    "evo": ["Gyalis"],
+    "trait": ["Mirroring", "Resistant"]
+  },
+  {
+    "name": "Occlura",
+    "id": "055",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Crystal"],
+    "stats": {
+      "HP": 50,
+      "STA": 39,
+      "SPD": 50,
+      "ATK": 45,
+      "DEF": 43,
+      "SPKATK": 38,
+      "SPDEF": 65
+    },
+    "evo": ["Occlura", "Myx"],
+    "evolution": [
+      {
+        "name": "Occlura"
+      },
+      {
+        "name": "Myx",
+        "source": "+18 Levels"
+      }
+    ],
+    "trait": ["Warm-Blooded", "Scavenger"]
+  },
+  {
+    "name": "Myx",
+    "id": "056",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Crystal", "Mental"],
+    "stats": {
+      "HP": 51,
+      "STA": 59,
+      "SPD": 65,
+      "ATK": 51,
+      "DEF": 43,
+      "SPKATK": 94,
+      "SPDEF": 80
+    },
+    "evo": ["Occlura", "Myx"],
+    "evolution": [
+      {
+        "name": "Occlura"
+      },
+      {
+        "name": "Myx",
+        "source": "+18 Levels"
+      }
+    ],
+    "trait": ["Puppet Master", "Rejuvenate"]
+  },
+  {
+    "name": "Raiber",
+    "id": "057",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Fire"],
+    "stats": {
+      "HP": 57,
+      "STA": 35,
+      "SPD": 42,
+      "ATK": 40,
+      "DEF": 61,
+      "SPKATK": 59,
+      "SPDEF": 38
+    },
+    "evo": ["Raiber", "Raize", "Raican"],
+    "evolution": [
+      {
+        "name": "Raiber"
+      },
+      {
+        "name": "Raize",
+        "source": "+15 Levels"
+      },
+      {
+        "name": "Raican",
+        "source": "+25 Levels"
+      }
+    ],
+    "trait": ["Camaraderie", "Rested"]
+  },
+  {
+    "name": "Raize",
+    "id": "058",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "A",
+    "type": ["Fire"],
+    "stats": {
+      "HP": 66,
+      "STA": 46,
+      "SPD": 48,
+      "ATK": 46,
+      "DEF": 74,
+      "SPKATK": 69,
+      "SPDEF": 43
+    },
+    "evo": ["Raiber", "Raize", "Raican"],
+    "evolution": [
+      {
+        "name": "Raiber"
+      },
+      {
+        "name": "Raize",
+        "source": "+15 Levels"
+      },
+      {
+        "name": "Raican",
+        "source": "+25 Levels"
+      }
+    ],
+    "trait": ["Furor", "Demoralize"]
+  },
+  {
+    "name": "Raican",
+    "id": "059",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "B",
+    "type": ["Fire"],
+    "stats": {
+      "HP": 77,
+      "STA": 49,
+      "SPD": 51,
+      "ATK": 50,
+      "DEF": 77,
+      "SPKATK": 77,
+      "SPDEF": 60
+    },
+    "evo": ["Raiber", "Raize", "Raican"],
+    "evolution": [
+      {
+        "name": "Raiber"
+      },
+      {
+        "name": "Raize",
+        "source": "+15 Levels"
+      },
+      {
+        "name": "Raican",
+        "source": "+25 Levels"
+      }
+    ],
+    "trait": ["Prideful", "Motivator"]
+  },
+  {
+    "name": "Pewki",
+    "id": "060",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Water"],
+    "stats": {
+      "HP": 70,
+      "STA": 32,
+      "SPD": 33,
+      "ATK": 42,
+      "DEF": 45,
+      "SPKATK": 31,
+      "SPDEF": 10
+    },
+    "evo": ["Pewki", "Piraniant"],
+    "evolution": [
+      {
+        "name": "Pewki"
+      },
+      {
+        "name": "Piraniant",
+        "source": "+13 Levels"
+      }
+    ],
+    "trait": ["Hydrologist", "Rested"]
+  },
+  {
+    "name": "Piraniant",
+    "id": "061",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "D",
+    "type": ["Water"],
+    "stats": {
+      "HP": 80,
+      "STA": 50,
+      "SPD": 55,
+      "ATK": 77,
+      "DEF": 85,
+      "SPKATK": 65,
+      "SPDEF": 37
+    },
+    "evo": ["Pewki", "Piraniant"],
+    "evolution": [
+      {
+        "name": "Pewki"
+      },
+      {
+        "name": "Piraniant",
+        "source": "+13 Levels"
+      }
+    ],
+    "trait": ["Patient", "Energy Reserve"]
+  },
+  {
+    "name": "Saipat",
+    "id": "069",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "B",
+    "type": ["Water", "Melee"],
+    "stats": {
+      "HP": 92,
+      "STA": 42,
+      "SPD": 70,
+      "ATK": 80,
+      "DEF": 50,
+      "SPKATK": 70,
+      "SPDEF": 40
+    },
+    "evo": ["Saipat"],
+    "trait": ["Amphibian", "Toxic Affinity"]
+  },
+  {
+    "name": "Crystle",
+    "id": "072",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Crystal"],
+    "stats": {
+      "HP": 60,
+      "STA": 41,
+      "SPD": 33,
+      "ATK": 61,
+      "DEF": 69,
+      "SPKATK": 46,
+      "SPDEF": 42
+    },
+    "evo": ["Crystle", "Sherald"],
+    "evolution": [
+      {
+        "name": "Crystle"
+      },
+      {
+        "name": "Sherald",
+        "source": "+30 Levels"
+      }
+    ],
+    "trait": ["Amphibian", "Rested"]
+  },
+  {
+    "name": "Sherald",
+    "id": "073",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "D",
+    "type": ["Crystal"],
+    "stats": {
+      "HP": 68,
+      "STA": 45,
+      "SPD": 43,
+      "ATK": 69,
+      "DEF": 78,
+      "SPKATK": 51,
+      "SPDEF": 48
+    },
+    "evo": ["Crystle", "Sherald"],
+    "evolution": [
+      {
+        "name": "Crystle"
+      },
+      {
+        "name": "Sherald",
+        "source": "+30 Levels"
+      }
+    ],
+    "trait": ["Mirroring", "Provident"]
+  },
+  {
+    "name": "Hocus",
+    "id": "079",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Mental"],
+    "stats": {
+      "HP": "-",
+      "STA": "-",
+      "SPD": "-",
+      "ATK": "-",
+      "DEF": "-",
+      "SPKATK": "-",
+      "SPDEF": "-"
+    },
+    "evo": ["Hocus", "Pocus"],
+    "evolution": [
+      {
+        "name": "Hocus"
+      },
+      {
+        "name": "Pocus",
+        "source": "+? Levels"
+      }
+    ]
+  },
+  {
+    "name": "Pocus",
+    "id": "080",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "?",
+    "type": ["Mental"],
+    "stats": {
+      "HP": "-",
+      "STA": "-",
+      "SPD": "-",
+      "ATK": "-",
+      "DEF": "-",
+      "SPKATK": "-",
+      "SPDEF": "-"
+    },
+    "evo": ["Hocus", "Pocus"],
+    "evolution": [
+      {
+        "name": "Hocus"
+      },
+      {
+        "name": "Pocus",
+        "source": "+? Levels"
+      }
+    ]
+  },
+  {
+    "name": "Sparzy",
+    "id": "082",
+    "new": false,
+    "popular": false,
+    "luma": false,
+    "tier": "?",
+    "type": ["Electric"],
+    "stats": {
+      "HP": "-",
+      "STA": "-",
+      "SPD": "-",
+      "ATK": "-",
+      "DEF": "-",
+      "SPKATK": "-",
+      "SPDEF": "-"
+    },
+    "evo": ["Sparzy"]
+  },
+  {
+    "name": "Mushi",
+    "id": "084",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Toxic"],
+    "stats": {
+      "HP": 48,
+      "STA": 33,
+      "SPD": 68,
+      "ATK": 48,
+      "DEF": 36,
+      "SPKATK": 48,
+      "SPDEF": 29
+    },
+    "evo": ["Mushi", "Mushook"],
+    "evolution": [
+      {
+        "name": "Mushi"
+      },
+      {
+        "name": "Mushook",
+        "source": "+20 Levels"
+      }
+    ],
+    "trait": ["Resistant", "Resilient"]
+  },
+  {
+    "name": "Mushook",
+    "id": "085",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "D",
+    "type": ["Toxic", "Melee"],
+    "stats": {
+      "HP": 67,
+      "STA": 45,
+      "SPD": 81,
+      "ATK": 81,
+      "DEF": 80,
+      "SPKATK": 49,
+      "SPDEF": 41
+    },
+    "evo": ["Mushi", "Mushook"],
+    "evolution": [
+      {
+        "name": "Mushi"
+      },
+      {
+        "name": "Mushook",
+        "source": "+20 Levels"
+      }
+    ],
+    "trait": ["Parrier", "Tireless"]
+  },
+  {
+    "name": "Magmis",
+    "id": "086",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Fire"],
+    "stats": {
+      "HP": 52,
+      "STA": 51,
+      "SPD": 37,
+      "ATK": 55,
+      "DEF": 42,
+      "SPKATK": 45,
+      "SPDEF": 35
+    },
+    "evo": ["Magmis", "Mastione"],
+    "evolution": [
+      {
+        "name": "Magmis"
+      },
+      {
+        "name": "Mastione",
+        "source": "+16 Levels"
+      }
+    ],
+    "trait": ["Caffeinated", "Thick Skin"]
+  },
+  {
+    "name": "Mastione",
+    "id": "087",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Fire"],
+    "stats": {
+      "HP": 69,
+      "STA": 62,
+      "SPD": 52,
+      "ATK": 91,
+      "DEF": 65,
+      "SPKATK": 62,
+      "SPDEF": 37
+    },
+    "evo": ["Magmis", "Mastione"],
+    "evolution": [
+      {
+        "name": "Magmis"
+      },
+      {
+        "name": "Mastione",
+        "source": "+16 Levels"
+      }
+    ],
+    "trait": ["Bully", "Pyromaniac"]
+  },
+  {
+    "name": "Umishi",
+    "id": "088",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Water"],
+    "stats": {
+      "HP": 51,
+      "STA": 76,
+      "SPD": 80,
+      "ATK": 21,
+      "DEF": 34,
+      "SPKATK": 63,
+      "SPDEF": 45
+    },
+    "evo": ["Umishi", "Ukama"],
+    "evolution": [
+      {
+        "name": "Umishi"
+      },
+      {
+        "name": "Ukama",
+        "source": "+14 Levels"
+      }
+    ],
+    "trait": ["Shared Pain", "Caffeinated"]
+  },
+  {
+    "name": "Ukama",
+    "id": "089",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "A",
+    "type": ["Water"],
+    "stats": {
+      "HP": 68,
+      "STA": 90,
+      "SPD": 100,
+      "ATK": 34,
+      "DEF": 51,
+      "SPKATK": 76,
+      "SPDEF": 54
+    },
+    "evo": ["Umishi", "Ukama"],
+    "evolution": [
+      {
+        "name": "Umishi"
+      },
+      {
+        "name": "Ukama",
+        "source": "+14 Levels"
+      }
+    ],
+    "trait": ["Hydrologist", "Plethoric"]
+  },
+  {
+    "name": "Smazee",
+    "id": "092",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Melee"],
+    "stats": {
+      "HP": 49,
+      "STA": 55,
+      "SPD": 66,
+      "ATK": 69,
+      "DEF": 44,
+      "SPKATK": 37,
+      "SPDEF": 37
+    },
+    "evo": ["Smazee", "Baboong"],
+    "evolution": [
+      {
+        "name": "Smazee"
+      },
+      {
+        "name": "Baboong",
+        "source": "+29 Levels"
+      }
+    ],
+    "trait": ["Fever Rush", "Friendship"]
+  },
+  {
+    "name": "Baboong",
+    "id": "093",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "B",
+    "type": ["Melee"],
+    "stats": {
+      "HP": 54,
+      "STA": 61,
+      "SPD": 75,
+      "ATK": 79,
+      "DEF": 51,
+      "SPKATK": 41,
+      "SPDEF": 41
+    },
+    "evo": ["Smazee", "Baboong"],
+    "evolution": [
+      {
+        "name": "Smazee"
+      },
+      {
+        "name": "Baboong",
+        "source": "+29 Levels"
+      }
+    ],
+    "trait": ["Brawny", "Warm-Blooded"]
+  },
+  {
+    "name": "Spriole",
+    "id": "102",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Nature"],
+    "stats": {
+      "HP": 72,
+      "STA": 38,
+      "SPD": 65,
+      "ATK": 42,
+      "DEF": 70,
+      "SPKATK": 37,
+      "SPDEF": 31
+    },
+    "evo": ["Spriole", "Deendre", "Cerneaf"],
+    "evolution": [
+      {
+        "name": "Spriole"
+      },
+      {
+        "name": "Deendre",
+        "source": "+12 Levels"
+      },
+      {
+        "name": "Cerneaf",
+        "source": "+25 Levels"
+      }
+    ],
+    "trait": ["Camaraderie", "Botanist"]
+  },
+  {
+    "name": "Deendre",
+    "id": "103",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Nature"],
+    "stats": {
+      "HP": 80,
+      "STA": 42,
+      "SPD": 70,
+      "ATK": 48,
+      "DEF": 74,
+      "SPKATK": 42,
+      "SPDEF": 35
+    },
+    "evo": ["Spriole", "Deendre", "Cerneaf"],
+    "evolution": [
+      {
+        "name": "Spriole"
+      },
+      {
+        "name": "Deendre",
+        "source": "+12 Levels"
+      },
+      {
+        "name": "Cerneaf",
+        "source": "+25 Levels"
+      }
+    ],
+    "trait": ["Mithridatism", "Settling"]
+  },
+  {
+    "name": "Cerneaf",
+    "id": "104",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Nature"],
+    "stats": {
+      "HP": 91,
+      "STA": 44,
+      "SPD": 79,
+      "ATK": 60,
+      "DEF": 88,
+      "SPKATK": 43,
+      "SPDEF": 46
+    },
+    "evo": ["Spriole", "Deendre", "Cerneaf"],
+    "evolution": [
+      {
+        "name": "Spriole"
+      },
+      {
+        "name": "Deendre",
+        "source": "+12 Levels"
+      },
+      {
+        "name": "Cerneaf",
+        "source": "+25 Levels"
+      }
+    ],
+    "trait": ["Callosity", "Settling"]
+  },
+  {
+    "name": "Toxolotl",
+    "id": "105",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Toxic"],
+    "stats": {
+      "HP": 59,
+      "STA": 40,
+      "SPD": 47,
+      "ATK": 50,
+      "DEF": 64,
+      "SPKATK": 65,
+      "SPDEF": 37
+    },
+    "evo": ["Toxolotl", "Noxolotl"],
+    "evolution": [
+      {
+        "name": "Toxolotl"
+      },
+      {
+        "name": "Noxolotl",
+        "source": "+30 Levels"
+      }
+    ],
+    "trait": ["Power Nap", "Toxic Farewell"]
+  },
+  {
+    "name": "Noxolotl",
+    "id": "106",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "D",
+    "type": ["Toxic"],
+    "stats": {
+      "HP": 72,
+      "STA": 49,
+      "SPD": 57,
+      "ATK": 61,
+      "DEF": 78,
+      "SPKATK": 79,
+      "SPDEF": 45
+    },
+    "evo": ["Toxolotl", "Noxolotl"],
+    "evolution": [
+      {
+        "name": "Toxolotl"
+      },
+      {
+        "name": "Noxolotl",
+        "source": "+30 Levels"
+      }
+    ],
+    "trait": ["Trance", "Toxic Skin"]
+  },
+  {
+    "name": "Blooze",
+    "id": "107",
+    "new": true,
+    "popular": false,
+    "luma": true,
+    "type": ["Toxic"],
+    "stats": {
+      "HP": 68,
+      "STA": 50,
+      "SPD": 33,
+      "ATK": 43,
+      "DEF": 52,
+      "SPKATK": 46,
+      "SPDEF": 54
+    },
+    "evo": ["Blooze", "Goolder"],
+    "evolution": [
+      {
+        "name": "Blooze"
+      },
+      {
+        "name": "Goolder",
+        "source": "+25 Levels"
+      }
+    ],
+    "trait": ["Toxic Skin", "Bully"]
+  },
+  {
+    "name": "Goolder",
+    "id": "108",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Toxic"],
+    "stats": {
+      "HP": 120,
+      "STA": 70,
+      "SPD": 10,
+      "ATK": 64,
+      "DEF": 56,
+      "SPKATK": 68,
+      "SPDEF": 56
+    },
+    "evo": ["Blooze", "Goolder"],
+    "evolution": [
+      {
+        "name": "Blooze"
+      },
+      {
+        "name": "Goolder",
+        "source": "+25 Levels"
+      }
+    ],
+    "trait": ["Strong Liver", "Punching Bag"]
+  },
+  {
+    "name": "Zephyruff",
+    "id": "109",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Toxic", "Wind"],
+    "stats": {
+      "HP": 58,
+      "STA": 34,
+      "SPD": 68,
+      "ATK": 43,
+      "DEF": 47,
+      "SPKATK": 50,
+      "SPDEF": 51
+    },
+    "evo": ["Zephyruff", "Volarend"],
+    "evolution": [
+      {
+        "name": "Zephyruff"
+      },
+      {
+        "name": "Volarend",
+        "source": "+22 Levels"
+      }
+    ],
+    "trait": ["Toxic Affinity", "Air Specialist"]
+  },
+  {
+    "name": "Volarend",
+    "id": "110",
+    "new": false,
+    "popular": true,
+    "luma": true,
+    "tier": "S",
+    "type": ["Toxic", "Wind"],
+    "stats": {
+      "HP": 69,
+      "STA": 38,
+      "SPD": 74,
+      "ATK": 51,
+      "DEF": 61,
+      "SPKATK": 68,
+      "SPDEF": 96
+    },
+    "evo": ["Zephyruff", "Volarend"],
+    "evolution": [
+      {
+        "name": "Zephyruff"
+      },
+      {
+        "name": "Volarend",
+        "source": "+22 Levels"
+      }
+    ],
+    "trait": ["Aerobic", "Anaerobic"]
+  },
+  {
+    "name": "Ganki",
+    "id": "113",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Electric", "Wind"],
+    "stats": {
+      "HP": 38,
+      "STA": 46,
+      "SPD": 61,
+      "ATK": 57,
+      "DEF": 38,
+      "SPKATK": 62,
+      "SPDEF": 73
+    },
+    "evo": ["Ganki", "Gazuma"],
+    "evolution": [
+      {
+        "name": "Ganki"
+      },
+      {
+        "name": "Gazuma",
+        "source": "+27 Levels"
+      }
+    ],
+    "trait": ["Botanophobia", "Cold-Natured"]
+  },
+  {
+    "name": "Gazuma",
+    "id": "114",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "B",
+    "type": ["Electric", "Wind"],
+    "stats": {
+      "HP": 46,
+      "STA": 53,
+      "SPD": 67,
+      "ATK": 68,
+      "DEF": 43,
+      "SPKATK": 81,
+      "SPDEF": 91
+    },
+    "evo": ["Ganki", "Gazuma"],
+    "evolution": [
+      {
+        "name": "Ganki"
+      },
+      {
+        "name": "Gazuma",
+        "source": "+27 Levels"
+      }
+    ],
+    "trait": ["Receptive", "Fast Charge"]
+  },
+  {
+    "name": "Oceara",
+    "id": "115",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "A",
+    "type": ["Water"],
+    "stats": {
+      "HP": 64,
+      "STA": 42,
+      "SPD": 100,
+      "ATK": 54,
+      "DEF": 51,
+      "SPKATK": 110,
+      "SPDEF": 65
+    },
+    "evo": ["Oceara"],
+    "trait": ["Hydrologist", "Mithridatism"]
+  },
+  {
+    "name": "Shuine",
+    "id": "122",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Crystal", "Water"],
+    "stats": {
+      "HP": 43,
+      "STA": 90,
+      "SPD": 81,
+      "ATK": 67,
+      "DEF": 49,
+      "SPKATK": 72,
+      "SPDEF": 60
+    },
+    "evo": ["Shuine"],
+    "trait": ["Immunity", "Guardian"]
+  },
+  {
+    "name": "Nessla",
+    "id": "123",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "D",
+    "type": ["Water", "Electric"],
+    "stats": {
+      "HP": 45,
+      "STA": 58,
+      "SPD": 66,
+      "ATK": 76,
+      "DEF": 50,
+      "SPKATK": 70,
+      "SPDEF": 72
+    },
+    "evo": ["Nessla"],
+    "trait": ["Electric Synthesize", "Hydrologist"]
+  },
+  {
+    "name": "Kalazu",
+    "id": "127",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Water"],
+    "stats": {
+      "HP": 63,
+      "STA": 24,
+      "SPD": 28,
+      "ATK": 54,
+      "DEF": 70,
+      "SPKATK": 38,
+      "SPDEF": 44
+    },
+    "evo": ["Kalazu", "Kalabyss"],
+    "evolution": [
+      {
+        "name": "Kalazu"
+      },
+      {
+        "name": "Kalabyss",
+        "source": "+18 Levels"
+      }
+    ],
+    "trait": ["Mithridatism", "Hydrologist"]
+  },
+  {
+    "name": "Kalabyss",
+    "id": "128",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "C",
+    "type": ["Water", "Toxic"],
+    "stats": {
+      "HP": 82,
+      "STA": 35,
+      "SPD": 37,
+      "ATK": 75,
+      "DEF": 100,
+      "SPKATK": 65,
+      "SPDEF": 55
+    },
+    "evo": ["Kalazu", "Kalabyss"],
+    "evolution": [
+      {
+        "name": "Kalazu"
+      },
+      {
+        "name": "Kalabyss",
+        "source": "+18 Levels"
+      }
+    ],
+    "trait": ["Botanophobia", "Loneliness"]
+  },
+  {
+    "name": "Adoroboros",
+    "id": "129",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "D",
+    "type": ["Toxic", "Mental"],
+    "stats": {
+      "HP": 66,
+      "STA": 66,
+      "SPD": 60,
+      "ATK": 29,
+      "DEF": 42,
+      "SPKATK": 70,
+      "SPDEF": 110
+    },
+    "evo": ["Adoroboros"],
+    "trait": ["Synergy Master", "Toxic Skin"]
+  },
+  {
+    "name": "Tuwai",
+    "id": "130",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Wind"],
+    "stats": {
+      "HP": 54,
+      "STA": 47,
+      "SPD": 58,
+      "ATK": 62,
+      "DEF": 45,
+      "SPKATK": 60,
+      "SPDEF": 47
+    },
+    "evo": ["Tuwai", "Tuvine"],
+    "evolution": [
+      {
+        "name": "Tuwai"
+      },
+      {
+        "name": "Tuvine",
+        "source": "Crystal Shrine"
+      }
+    ],
+    "trait": ["Spoilsport", "Resilient"]
+  },
+  {
+    "name": "Tuvine",
+    "id": "133",
+    "new": false,
+    "popular": true,
+    "luma": true,
+    "tier": "S",
+    "type": ["Wind", "Crystal"],
+    "stats": {
+      "HP": 57,
+      "STA": 47,
+      "SPD": 65,
+      "ATK": 70,
+      "DEF": 111,
+      "SPKATK": 60,
+      "SPDEF": 47
+    },
+    "evo": ["Tuwai", "Tuvine"],
+    "evolution": [
+      {
+        "name": "Tuwai"
+      },
+      {
+        "name": "Tuvine",
+        "source": "Crystal Shrine"
+      }
+    ],
+    "trait": ["Receptive", "Determined"]
+  },
+  {
+    "name": "Kinu",
+    "id": "137",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "A",
+    "type": ["Nature", "Mental"],
+    "stats": {
+      "HP": 47,
+      "STA": 74,
+      "SPD": 74,
+      "ATK": 53,
+      "DEF": 41,
+      "SPKATK": 69,
+      "SPDEF": 96
+    },
+    "evo": ["Kinu"],
+    "trait": ["Protector", "Benefactor"]
+  },
+  {
+    "name": "Vulvir",
+    "id": "138",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Fire", "Earth"],
+    "stats": {
+      "HP": 59,
+      "STA": 54,
+      "SPD": 57,
+      "ATK": 47,
+      "DEF": 64,
+      "SPKATK": 47,
+      "SPDEF": 31
+    },
+    "evo": ["Vulvir", "Vulor", "Vulcrane"],
+    "evolution": [
+      {
+        "name": "Vulvir"
+      },
+      {
+        "name": "Vulor",
+        "source": "+14 Levels"
+      },
+      {
+        "name": "Vulcrane",
+        "source": "+28 Levels"
+      }
+    ],
+    "trait": ["Camaraderie", "Caffeinated"]
+  },
+  {
+    "name": "Vulor",
+    "id": "139",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "type": ["Fire", "Earth"],
+    "stats": {
+      "HP": 65,
+      "STA": 59,
+      "SPD": 63,
+      "ATK": 49,
+      "DEF": 71,
+      "SPKATK": 49,
+      "SPDEF": 32
+    },
+    "evo": ["Vulvir", "Vulor", "Vulcrane"],
+    "evolution": [
+      {
+        "name": "Vulvir"
+      },
+      {
+        "name": "Vulor",
+        "source": "+14 Levels"
+      },
+      {
+        "name": "Vulcrane",
+        "source": "+28 Levels"
+      }
+    ],
+    "trait": ["Pyromaniac", "Individualist"]
+  },
+  {
+    "name": "Vulcrane",
+    "id": "140",
+    "new": true,
+    "popular": false,
+    "luma": true,
+    "tier": "B",
+    "type": ["Fire", "Earth"],
+    "stats": {
+      "HP": 76,
+      "STA": 65,
+      "SPD": 73,
+      "ATK": 74,
+      "DEF": 86,
+      "SPKATK": 64,
+      "SPDEF": 35
+    },
+    "evo": ["Vulvir", "Vulor", "Vulcrane"],
+    "evolution": [
+      {
+        "name": "Vulvir"
+      },
+      {
+        "name": "Vulor",
+        "source": "+14 Levels"
+      },
+      {
+        "name": "Vulcrane",
+        "source": "+28 Levels"
+      }
+    ],
+    "trait": ["Receptive", "Vigorous"]
+  },
+  {
+    "name": "Pigepic",
+    "id": "141",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "S",
+    "type": ["Wind"],
+    "stats": {
+      "HP": 54,
+      "STA": 72,
+      "SPD": 58,
+      "ATK": 60,
+      "DEF": 72,
+      "SPKATK": 45,
+      "SPDEF": 72
+    },
+    "evo": ["Pigepic"],
+    "trait": ["Friendship", "Fainted Curse"]
+  },
+  {
+    "name": "Anahir",
+    "id": "161",
+    "new": false,
+    "popular": false,
+    "luma": true,
+    "tier": "A",
+    "type": ["Crystal", "Fire"],
+    "stats": {
+      "HP": 54,
+      "STA": 36,
+      "SPD": 31,
+      "ATK": 50,
+      "DEF": 101,
+      "SPKATK": 50,
+      "SPDEF": 101
+    },
+    "evo": ["Anahir"],
+    "trait": ["Trauma", "Flawed Crystal"]
+  }
+]

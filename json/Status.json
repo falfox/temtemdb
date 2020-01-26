@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Asleep",
+    "effect": "Cannot attack. Wake up upon taking damage.",
+    "type": "Negative",
+    "immune": "Mental"
+  },
+  {
+    "name": "Burnt",
+    "effect": "Lose 6.25% HP every turn. ATK and SPATK -30%. Remove Cold and Frozen conditions.",
+    "type": "Negative",
+    "immune": "Fire"
+  },
+  {
+    "name": "Cold",
+    "effect": "If afflicted twice, become Frozen. Remove Burnt condition.",
+    "type": "Negative"
+  },
+  {
+    "name": "Doomed",
+    "effect": "Faint when the counter reaches 0.",
+    "type": "Negative"
+  },
+  {
+    "name": "Exhausted",
+    "effect": "STA costs increased by 50%.",
+    "type": "Negative"
+  },
+  {
+    "name": "Frozen",
+    "effect": "Cannot attack. Remove Burnt condition.",
+    "type": "Negative"
+  },
+  {
+    "name": "Immune",
+    "effect": "Cannot be affected by new Status conditions.",
+    "type": "Positive"
+  },
+  {
+    "name": "Neutralized",
+    "effect": "Type resistances and weaknesses are ignored.",
+    "type": "Neutral"
+  },
+  {
+    "name": "Poisoned",
+    "effect": "Lose 12.5% HP every turn.",
+    "type": "Negative",
+    "immune": "Toxic"
+  },
+  {
+    "name": "Regenerated",
+    "effect": "Recover 10% HP every turn.",
+    "type": "Positive"
+  },
+  {
+    "name": "Seized",
+    "effect": "Gear effects are ignored.",
+    "type": "Negative"
+  },
+  {
+    "name": "Trapped",
+    "effect": "Cannot swap out.",
+    "type": "Negative"
+  },
+  {
+    "name": "Vigorized",
+    "effect": "STA costs decreased by 50%.",
+    "type": "Positive"
+  }
+]
